@@ -1,2 +1,8 @@
-# devops-capability-maturity-model
-DevOps Capability Maturity Model
+# DevOps Capability Maturity Model
+### Introduction
+
+
+
+### Architecture
+
+![](docs/docmm-architecture.png)
